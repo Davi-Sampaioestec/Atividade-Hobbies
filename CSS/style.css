@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+
+.Titulo{
+    font-family: DM Serif Text;
+    font-size: 30px;
+    font-style:unset;
+    font-weight: 50;
+    color: white;
+    background-color: rgb(67, 67, 141);
+    text-align: center;
+}
+.Paragrafo{
+        background-color: rgb(252, 240, 212);
+    /* border: 5px solid rgb(228, 183, 87); */
+    /* border-style: groove; /*tipos diversos de borda */
+    border: rgb(114, 231, 120); 
+    border-top: 0px;
+    border-left: 7px rgb(114, 231, 120);
+    border-bottom: 7px rgb(114, 231, 120);
+    border-right: 0px ;
+
+    font-family: DM Serif Text;
+
+    padding: 20px;
+    margin-top: 20px;
+    /* margin: 20px; */
+
+    margin: 20px 10px 15px 50px;
+    /* 1-top; 2-right; 3-bottom; 4-left */
+
+    box-shadow: -20px  10px 20px #85e695;
+}
+.Paragrafo2{
+background-color: rgb(252, 240, 212);
+    /* border: 5px solid rgb(228, 183, 87); */
+    /* border-style: groove; /*tipos diversos de borda */
+    border: rgb(122, 175, 125); 
+    border-top: 0px;
+    border-left: 7px #6f9e77;
+    border-bottom: 7px rgb(122, 175, 125);
+    border-right: 0px ;
+
+    font-family: DM Serif Text;
+
+    padding: 20px;
+    margin-top: 20px;
+    /* margin: 20px; */
+
+    margin: 20px 10px 15px 50px;
+    /* 1-top; 2-right; 3-bottom; 4-left */
+
+       box-shadow: -20px  10px 20px #85e695;
+
+}
